@@ -13,7 +13,7 @@ Key directories
 - `dns/` — DNS configuration and blocklists (dnsmasq-style `blocklist.conf`).
 - `logger/` — Capture and store logs/pcaps.
 - `proxy/` — Lightweight proxy service used in the compose network.
-- `scripts/` — Helper scripts for logs, resetting environment, etc.
+- `scripts/` — Helper scripts for logs, a custom resetting environment, etc.
 - `tmp/` — Ephemeral files (e.g. `capture.pcap`).
 - `yara_rules/` — YARA rules used for file/traffic inspection.
 
